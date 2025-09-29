@@ -102,4 +102,4 @@ This lab provides a **secured baseline configuration** for network devices.
 ---
 
 
-**Next part:** SSH - Xubuntu client
+**Next part:** [3. SSH – Xubuntu client](03-ssh-xubuntu-client.md)
