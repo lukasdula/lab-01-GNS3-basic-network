@@ -108,4 +108,4 @@ This lab demonstrates the integration of a virtual Xubuntu PC into the network a
 
 ---
 
-**Back to project overview:**[README](README.md)
+**Back to project overview:** [README](README.md)
