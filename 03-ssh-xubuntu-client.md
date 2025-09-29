@@ -20,10 +20,6 @@ This part demonstrates the integration of a virtual client into the network. In 
 | PC2 (VPCS2)    |Eth0           | Switch SW1      | Gi0/2          | 192.168.1.11 | 255.255.255.0 | 192.168.1.1 |
 | Xubuntu-client | Gi0/0 (ens3) | Switch SW1      | Gi0/3          | 192.168.1.20 | 255.255.255.0 | 192.168.1.1 |
 
-**Default credentials (Xubuntu client):**  
-
-- Username: lab-01  
-- Password: 12345
 
 
 ## **3.3 Steps**
