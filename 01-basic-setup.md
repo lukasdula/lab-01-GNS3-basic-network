@@ -139,4 +139,4 @@ This basic setup provides a solid foundation for more advanced labs, where addit
 ---
 
 
-**Next part:** Secure access
+**Next part:** [2. Secure access](02-secure-access.md)
