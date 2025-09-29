@@ -8,7 +8,7 @@ This lab extends the basic setup by adding **secure access configuration**. The 
 ![TOPOLOGY-map-2](images/Pasted%20image%2020250929021657.png)
 
 
----
+
 
 ## **2.2 Steps**
 
@@ -20,7 +20,7 @@ This lab extends the basic setup by adding **secure access configuration**. The 
 6. Add a login banner for unauthorized access warning.
 7. Save the configuration.
 
----
+
 
 ## **2.3 Configuration**
 
@@ -58,7 +58,7 @@ write memory
 ```
 ![SW1-password](images/Pasted%20image%2020250928202957.png)
 
----
+
 
 ## **2.4 Diagnostics**
 
@@ -88,7 +88,7 @@ show running-config
 ![Diagnostics-4](images/Pasted%20image%2020250928203527.png)
 
 
----
+
 
 ## **2.5 Conclusion**  
 
