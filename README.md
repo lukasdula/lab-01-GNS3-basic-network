@@ -22,7 +22,7 @@ This lab builds on previous experience from Packet Tracer but introduces the pos
 
 ## Lab Structure
 
-[1. Basic setup](01-bassic-setup.md)
+[1. Basic setup]01-basic-setup.md
     
 [2. Secure access](
     
