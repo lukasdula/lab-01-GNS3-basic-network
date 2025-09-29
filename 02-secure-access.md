@@ -90,7 +90,7 @@ show running-config
 
 ---
 
-### **2.5 Conclusion**  
+## **2.5 Conclusion**  
 
 This lab provides a **secured baseline configuration** for network devices.  
 - Console and VTY access require the **local admin account** (`admin/admin123`).  
