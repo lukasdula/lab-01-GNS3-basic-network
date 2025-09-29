@@ -19,7 +19,6 @@ This lab builds on previous experience from Packet Tracer but introduces the pos
 
 
 
-
 ## Lab Structure
 
 [1. Basic setup](01-basic-setup.md)
@@ -38,22 +37,6 @@ This lab builds on previous experience from Packet Tracer but introduces the pos
 
 - **Privileged mode (enable secret):**  
   password: `cisco123`  
-
-
-
-## How to run the labs
-
-1. Open the project file in GNS3 from the corresponding folder:
-
-   - `01-basic-setup/01-basic-setup.gns3`  
-   - `02-secure-access/02-secure-access.gns3`  
-   - `03-ssh-xubuntu-client/03-ssh-xubuntu-client.gns3`  
-
-2. Start all devices in the selected lab (R1, SW1, PCs, Xubuntu client).
-
-3. Follow the configuration steps described in the lab notes.
-
-4. Use the provided credentials if needed (admin / admin123).
 
 
 
