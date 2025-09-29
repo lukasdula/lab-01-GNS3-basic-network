@@ -116,12 +116,13 @@ save
     - Verify 100% success rate.
         
 
-
+```
 R1#show ip interface brief
 R1#ping 192.168.1.10
 R1#ping 192.168.1.11
 ```
 ![R1-DIAGNOSTIC](images/Pasted%20image%2020250928022124.png)
+
 
 ## **1.6 Conclusion**
 
