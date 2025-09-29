@@ -22,11 +22,11 @@ This lab builds on previous experience from Packet Tracer but introduces the pos
 
 ## Lab Structure
 
-[1. Basic setup](basic-setup.md)
+[1. Basic setup](01-basic-setup.md)
     
-[2. Secure access](secure-access.md)
+[2. Secure access](02-secure-access.md)
     
-[3. SSH – Xubuntu client](ssh-xubuntu-client.md)
+[3. SSH – Xubuntu client](03-ssh-xubuntu-client.md)
 
 
 
