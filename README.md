@@ -18,7 +18,6 @@ This lab builds on previous experience from Packet Tracer but introduces the pos
 ![TOPOLOGY-map](images/Pasted%20image%2020250929022418.png)
 
 
-
 ## Lab Structure
 
 [1. Basic setup](01-basic-setup.md)
@@ -26,17 +25,6 @@ This lab builds on previous experience from Packet Tracer but introduces the pos
 [2. Secure access](02-secure-access.md)
     
 [3. SSH – Xubuntu client](03-ssh-xubuntu-client.md)
-
-
-
-## Credentials
-
-- **Local admin account (console/VTY, SSH):**  
-  username: `admin`  
-  password: `admin123`  
-
-- **Privileged mode (enable secret):**  
-  password: `cisco123`  
 
 
 
