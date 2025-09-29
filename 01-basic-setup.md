@@ -21,7 +21,7 @@ The exercise demonstrates how devices are connected and how basic communication 
 | PC2    | PC2      | Eth0      | 192.168.1.11 | 255.255.255.0 | 192.168.1.1 |
 
 
----
+
 
 ## **1.3 Steps**
 
@@ -50,7 +50,7 @@ The exercise demonstrates how devices are connected and how basic communication 
         
     * Testing ping PCs -> R1
 
----
+
 
 ## **1.4 Configuration in CLI**
 
@@ -96,7 +96,7 @@ save
 ```
 ![PC2-IP-PING](images/Pasted%20image%2020250928021950.png)
 
----
+
 
 
 ## 1.5 **Diagnostics on Router (R1)**
@@ -117,7 +117,6 @@ save
         
 
 
-```
 R1#show ip interface brief
 R1#ping 192.168.1.10
 R1#ping 192.168.1.11
