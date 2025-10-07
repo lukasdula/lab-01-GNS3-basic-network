@@ -46,4 +46,4 @@ I look forward to the next labs, where I continue adding features from CCNA 1, Q
 
 ---
 
-© 2025 – Lukas Dula | Home Network Lab & Portfolio
+© 2025 – Lukas Dula | Home Networking Lab & Portfolio
