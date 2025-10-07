@@ -39,10 +39,9 @@ This lab builds on previous experience from Packet Tracer but introduces the pos
 
 ## Author's Note
 
-This lab is my first in GNS3. I enjoyed installing the Xubuntu client, connecting it to the network, and logging in via SSH. It feels like a new level compared to Packet Tracer, but my previous experience helped me a lot. It is exciting to explore GNS3 and see the network behave realistically.  
+This lab is the first one created to demonstrate my portfolio on GitHub. I enjoy installing the Xubuntu client, connecting it to the network, and logging in via SSH. It feels like a new level compared to Packet Tracer, but my previous experience helps me a lot. It is exciting to explore GNS3 and see the network behave realistically.
 
-I am looking forward to the next lab, where I will deploy an Apache server on Xubuntu and demonstrate client access to a web service. 
-I also plan to add a DHCP server to make the network more realistic.
+I look forward to the next labs, where I continue adding features from CCNA 1, QEMU virtual machines with Windows systems, and network monitoring using Wireshark and Zabbix.
 
 
 ---
