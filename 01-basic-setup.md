@@ -1,6 +1,8 @@
 
 # **1 - Basic setup**
 
+<br><br>
+
 ## **1.1 Introduction**  
 
 This lab introduces the basic configuration of a simple network in GNS3.  
@@ -9,6 +11,7 @@ The exercise demonstrates how devices are connected and how basic communication 
 
 ![TOPOLOGY-map-1](images/Pasted%20image%2020250929022139.png)
 
+<br><br>
 
 ## **1.2 Topology**
 
@@ -20,8 +23,7 @@ The exercise demonstrates how devices are connected and how basic communication 
 | PC1    | PC1      | Eth0      | 192.168.1.10 | 255.255.255.0 | 192.168.1.1 |
 | PC2    | PC2      | Eth0      | 192.168.1.11 | 255.255.255.0 | 192.168.1.1 |
 
-
-
+<br><br>
 
 ## **1.3 Steps**
 
@@ -50,7 +52,7 @@ The exercise demonstrates how devices are connected and how basic communication 
         
     * Testing ping PCs -> R1
 
-
+<br><br>
 
 ## **1.4 Configuration in CLI**
 
@@ -96,8 +98,7 @@ save
 ```
 ![PC2-IP-PING](images/Pasted%20image%2020250928021950.png)
 
-
-
+<br><br>
 
 ## 1.5 **Diagnostics on Router (R1)**
 
@@ -123,6 +124,7 @@ R1#ping 192.168.1.11
 ```
 ![R1-DIAGNOSTIC](images/Pasted%20image%2020250928022124.png)
 
+<br><br>
 
 ## **1.6 Conclusion**
 
