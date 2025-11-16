@@ -1,11 +1,14 @@
 # **3 - SSH with Xubuntu Client**
 
+<br><br>
+
 ## **3.1 Introduction**
 
 This part demonstrates the integration of a virtual client into the network. In this case, a Xubuntu PC is added to the topology, configured with an IP address, and connected to Router R1. The goal is to show secure remote access by establishing an SSH session from the Xubuntu client to the router.
 
 ![TOPOLOGY-map-3](images/Pasted%20image%2020250929021208.png)
 
+<br><br>
 
 ## **3.2 Topology**
 
@@ -20,7 +23,7 @@ This part demonstrates the integration of a virtual client into the network. In 
 | PC2 (VPCS2)    |Eth0           | Switch SW1      | Gi0/2          | 192.168.1.11 | 255.255.255.0 | 192.168.1.1 |
 | Xubuntu-client | Gi0/0 (ens3) | Switch SW1      | Gi0/3          | 192.168.1.20 | 255.255.255.0 | 192.168.1.1 |
 
-
+<br><br>
 
 ## **3.3 Steps**
 
@@ -37,6 +40,8 @@ This part demonstrates the integration of a virtual client into the network. In 
     
     
 4. Test SSH connection from Xubuntu client to Router R1.
+   
+<br><br>
 
 ## **3.4 Configuration**
 
@@ -77,6 +82,8 @@ ssh admin@192.168.1.1
 ```
 ![SSH](images/Pasted%20image%2020250929012614.png)
 
+<br><br>
+
 ## **3.5 Diagnostics**
 
 1. Verify connectivity by running pings from **Xubuntu-client** to PCs and Router R1.
@@ -97,6 +104,7 @@ show ip ssh
 ```
 ![SSH-test](images/Pasted%20image%2020250929013118.png)
 
+<br><br>
 
 ## **3.6 Conclusion**
 
